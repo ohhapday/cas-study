@@ -4,6 +4,6 @@
  - [링크](https://www.advancedwebranking.com/html/)
 
 ## 최근 Design 추세
- 1. Material Design
-   1) Depth 표현
+ * Material Design
+   * Depth 표현
 
