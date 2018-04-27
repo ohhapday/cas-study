@@ -39,6 +39,21 @@
 <head>
     <meta charset="UTF-8">
     <title>title</title>
+    <style>
+      header, nav, section, article, aside, footer {
+        border: 1px solid #CCC;
+        min-height: 30px;
+        margin: 5px;
+      }
+
+      aside {
+        width: 50%;
+      }
+
+      section {
+        width: 50%;
+      }
+    </style>
 </head>
 <body>
   <header></header>
@@ -54,16 +69,3 @@
 </body>
 </html>
 ```
-
-### 태그는 xml과 같이 직접 생성도 가능
-***    
-
-## 최근 Design 추세
- * Material Design
-   * Depth 표현
-
-Name | Lunch order | Spicy      | Owes
----- | ----------- | ---------- | ----:
-Joan | saag paneer | medium     | $11
-Sally| vindaloo    | mild       | $14
-Erin | lamb madras | HOT        | $5
