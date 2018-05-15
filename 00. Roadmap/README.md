@@ -2,58 +2,104 @@
 ---
 
 ## 웹개발자 마인드
-> [번역본](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
+#### [번역본](https://joshua1988.github.io/web-development/translation/how-to-become-uncommonly-web-dev/)
 
 ## 당신의 코딩 학습 방식을 바꿀 사진
-> [번역본](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/)
-> [원본](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
+#### [번역본](https://joshua1988.github.io/web-development/translation/change-the-way-you-learn-to-code/)
+#### [원본](https://medium.freecodecamp.com/this-picture-will-change-the-way-you-learn-to-code-557ac1e109bd)
 
-### Summery
-> ##### 1. 기술문서 읽는 법
->   - 무조건 많이 읽어볼 것  
->   - 다양한 기술문서를 접해볼 것
->   - 샘플코드를 실행해 볼 것
->
-> ##### 2. 소스코드 읽는 법
->   - 오픈소스 받아서 중간에 디버깅 문구 넣어 어떻게 동작하는지 확인
->
-> ##### 3. 디버깅 하는 법
->   - 최대한 고정 관념(기존 관점)에서 벗어나 생각
->   - 잠시 휴식
->   - 코드 의심 말자.
->
-> ##### 4. 도움 요청 하는 법
->   - Google
->   - StackOverFlow
->   - Github 해당 라이브러리의 Issues
+* ### Summery
+##### 1. 기술문서 읽는 법
+ - 무조건 많이 읽어볼 것  
+ - 다양한 기술문서를 접해볼 것
+ - 샘플코드를 실행해 볼 것
+
+##### 2. 소스코드 읽는 법
+ - 오픈소스 받아서 중간에 디버깅 문구 넣어 어떻게 동작하는지 확인
+
+##### 3. 디버깅 하는 법
+ - 최대한 고정 관념(기존 관점)에서 벗어나 생각
+ - 잠시 휴식
+ - 코드 의심 말자.
+
+##### 4. 도움 요청 하는 법
+ - Google
+ - StackOverFlow
+ - Github 해당 라이브러리의 Issues
 
 > ##### 모든 프로그래밍 언어와 기술을 배우는 대신에, 개발자에게 필요한 학습 능력을 기르자.
 > ##### 절대 배우는 것을 멈추지 말자.
----
+<br /><br />
 
 ## Web Developer Roadmap - 2018
-> [상세자료](https://github.com/kamranahmedse/developer-roadmap)
+* #### [상세자료](https://github.com/kamranahmedse/developer-roadmap)
+<br />
 
-### 공통
-> ##### 1. Git과 Github
-> ##### 2. Character Encodings (UTF-8과 UTF-8mb)
+### 1. 공통
+![common](https://camo.githubusercontent.com/4511e3b4831b40f49c008418b5bb509d10efcbac/68747470733a2f2f692e696d6775722e636f6d2f4f5a554f5574492e706e67)
+##### 1. Git과 Github
+##### 2. Character Encodings (UTF-8과 UTF-8mb)
+<br /><br /><br /><br />
 
-### FrontEnd
-> ##### 1. HTML
-> ##### 2. CSS
->   - CSS Framework
->   - Bootstrap
-> ##### 3. Javascript
->
-> #### 프론트엔드 Why?
->   - 사용자 경험 향상
->   - 자원의 효율적 배분
->   - 디자인 표준
+### 2. FrontEnd
+![FrontEnd](https://joshua1988.github.io/images/posts/web/frontend-roadmap.png)
 
-### BackEnd
+##### 1. HTML
+  - 화면의 영역 지정 (Semantics)
+  - 화면에 나타나는 요소 표기(텍스트, 이미지 등)
+> "Hyper Text Mark-up Language" 의 약자. 웹 페이지의 모습을 기술하기 위한 규약. 프로그래밍 언어가 아니라 마크업 언어다. 헷갈리지 않도록 하자. 웹사이트에서 흔히 볼 수 있는 htm 이나 html 확장자가 바로 이 언어로 작성된 문서이다.
 
-### DevOps
+<br />
+##### 2. CSS
+  - 화면에 나타나는 영역 및 요소를 이쁘게 꾸미는 기술
+> W3C에서는 "디자인적 요소를 HTML과 완전히 분리시켜 구조화된 HTML을 만들어보자!" 라는 목적으로 CSS를 발표했다.
+ - CSS Framework
+    - Bootstrap
+    - MaterialCSS
+
+<br />
+##### 3. Javascript
+  - 화면에 나타나는 요소의 동작을 제어
+> 프로그래밍 언어로, 스크립트 언어(Script Language)에 해당된다. 특수한 목적이 아닌 이상 모든 웹 브라우저에 인터프리터가 내장되어 있다. 오늘날 HTML, CSS와 함께 웹을 구성하는 요소 중 하나다. HTML이 웹 페이지의 기본 구조를 담당하고, CSS가 디자인을 담당한다면 JavaScript는 클라이언트 단에서 웹 페이지가 동작하는 것을 담당한다.
+ - ECMA Script
+   - 넷스케이프 VS MS
+   - 구글 VS MS
+ - ES5 (표준)
+ - ES6 (개발)
+
+<br />
+#### Why 프론트 엔드?
+ - 사용자 경험 향상
+ - 자원의 효율적 배분
+ - 디자인 표준
+
+<br /><br /><br /><br />
+
+### 3. BackEnd
+![BackEnd](https://cdn-images-1.medium.com/max/1000/1*wS8k6IlIgSb-7-lPhaNyrQ.png)
+<br /><br /><br /><br />
+
+### 4. DevOps (서버 기술)
+![DevOps](https://camo.githubusercontent.com/84c2faf3a081a531485909d25119723d7672f6c5/68747470733a2f2f692e696d6775722e636f6d2f707967396d48312e706e67)
+
 > 데브옵스(DevOps)는 소프트웨어의 개발(Development)과 운영(Operations)의 합성어로서,
   소프트웨어 개발자와 정보기술 전문가 간의 소통, 협업 및 통합을 강조하는 개발 환경이나 문화를 말한다.
   데브옵스는 소프트웨어 개발조직과 운영조직간의 상호 의존적 대응이며
   조직이 소프트웨어 제품과 서비스를 빠른 시간에 개발 및 배포하는 것을 목적으로 한다.
+
+<br /><br /><br /><br />
+
+## 어떻게 공부를 할까?
+#### 1. 기초과정
+ - [인프런](https://www.inflearn.com/)
+ - [HTML](https://www.inflearn.com/course/html-%EA%B8%B0%EC%B4%88/)
+ - [CSS](https://www.inflearn.com/course/%EC%83%9D%ED%99%9C%EC%BD%94%EB%94%A9%EC%9D%98-web2%EC%8B%9C%EB%A6%AC%EC%A6%88/)
+
+#### 2. 중급과정
+ - [Javascript](https://okky.kr/article/399271)
+ - [코드스쿨](https://www.codeschool.com/)
+ - [코드아카데미](https://www.codecademy.com)
+
+#### 3. 고급과정 - 최신기술
+ - [구글 디벨로퍼](https://developers.google.com/)
+<br /><br /><br /><br />
