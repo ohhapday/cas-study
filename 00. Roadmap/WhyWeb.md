@@ -7,33 +7,29 @@
 
 ### 데이터 형태 (JSON, JWT 등)
   - JSON: 데이터를 Key, Value 형태의 노드로 전달
-  - JWT: 토큰 기반 인증 시스템 (회원 인증, 정보 교류)
+  - JWT: 토큰 기반 인증 시스템 (회원 인증, 정보 교환)
 
-### 생산성 향상 (git, github, Package Manager System)
+### 생산성 향상을 위한 웹 기반 서비스 (git, github, Package Manager System)
   - git: svn을 대체한 협업 도구
   - github: 전세계 모든 오픈 프로그램 창고
   - Package Manager System: 50%를 먹고 개발작업 시작
 
+### [Appendix] 데이터 저장 형태 비교
+  - 테이블 구조
+  - 노드 구조(트리)
+
+
+
+<br /><br /><br /><br /><br /><br /><br /><br />
 
 
 # 준비해야할 자료
 
-HTML 역사
-
-https://developer.mozilla.org/ko/docs/Web/HTML/Element
-
-4차산업혁명과 웹기술의 발전
- - node
- - 통신규약 (이식성)
-
-테이블구조와 노드구조(트리)  
-
-git과 github, 소스트리
+소스트리
 
 https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3
 
 https://cdn-images-1.medium.com/max/800/1*0tL55LSgMj5p23_TIsIwOQ.png
-
 
 ### 태그는 xml과 같이 직접 생성도 가능
 ***    
