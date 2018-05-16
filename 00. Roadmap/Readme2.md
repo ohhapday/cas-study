@@ -1,16 +1,15 @@
 # 웹 개발 도구
----
+
 
 ## Atom
-> [다운로드](https://atom.io/)
+[다운로드](https://atom.io/)
 
 ## Chrome Web Server
-> [다운로드](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
+[다운로드](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
 
 
-
-
-준비해야할 자료
+<br /><br />
+# 준비해야할 자료
 
 [마크다운 관련 문서](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/#fn-53-2)
 
@@ -19,6 +18,8 @@ HTML 역사
 https://developer.mozilla.org/ko/docs/Web/HTML/Element
 
 4차산업혁명과 웹기술의 발전
+ - node
+ - 통신규약 (이식성)
 
 테이블구조와 노드구조(트리)  
 
