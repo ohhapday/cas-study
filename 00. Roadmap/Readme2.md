@@ -1,49 +1,30 @@
-# 웹 개발 도구
+# 학습 도구
 
+# Atom
+### 1. Atom
+  - [일렉트론](https://ko.wikipedia.org/wiki/%EC%9D%BC%EB%A0%89%ED%8A%B8%EB%A1%A0_(%EC%86%8C%ED%94%84%ED%8A%B8%EC%9B%A8%EC%96%B4_%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC))으로 개발된 소스 코드 편집기
+  - [다운로드](https://atom.io/)
+  - 자매품: 비주얼 스튜디오 코드
 
-## Atom
-[다운로드](https://atom.io/)
+### 2. Atom Theme && Packages
+  - Theme
+    - [Seti](https://atom.io/themes/seti-syntax)
+  - Packages
+    - [atom-beautify](https://atom.io/packages/atom-beautify): 소스코드 자동 정렬
+    - [autoclose-html](https://atom.io/packages/autoclose-html): close 태그 자동 삽입
+    - [code-peek](https://atom.io/packages/code-peek): 코드 빠른 미리보기
+    - [color-peek](https://atom.io/packages/color-picker): 컬러 선택 창
+    - [highlight-selected](https://atom.io/packages/highlight-selected)
+    - [javascript-snippets](https://atom.io/packages/javascript-snippets): 단축코드 생성기
+    - [pigments](https://atom.io/packages/pigments): 컬러 표시기
+    - [platformio-ide-terminal](https://atom.io/packages/platformio-ide-terminal): 터미널 여러개
+    - [project-manager](https://atom.io/packages/project-manager)
 
-## Chrome Web Server
-[다운로드](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
-
-
-<br /><br />
-# 준비해야할 자료
-
-[마크다운 관련 문서](http://blog.kalkin7.com/2014/02/10/lets-write-using-markdown/#fn-53-2)
-
-HTML 역사
-
-https://developer.mozilla.org/ko/docs/Web/HTML/Element
-
-4차산업혁명과 웹기술의 발전
- - node
- - 통신규약 (이식성)
-
-테이블구조와 노드구조(트리)  
-
-git과 github, 소스트리
-
-https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3
-
-https://cdn-images-1.medium.com/max/800/1*0tL55LSgMj5p23_TIsIwOQ.png
-
-
-### 태그는 xml과 같이 직접 생성도 가능
-***    
-
-## 최근 Design 추세
- * Material Design
-   * Depth 표현
-
-Name | Lunch order | Spicy      | Owes
----- | ----------- | ---------- | ----:
-Joan | saag paneer | medium     | $11
-Sally| vindaloo    | mild       | $14
-Erin | lamb madras | HOT        | $5
-
-
-## 인증/보안 - Bcrypt와 JWT
-
-## 웹폰트
+<br />
+# Chrome Web Server
+- ### 간편 설치 교육용 웹 서버
+  - [다운로드](https://chrome.google.com/webstore/detail/web-server-for-chrome/ofhbbkphhbklhfoeikjpcbhemlocgigb)
+<br />
+# 번역기
+- ### 영어가 짧은 개발자를 위한
+  - [다운로드](https://chrome.google.com/webstore/detail/google-translate/aapbdbdomjkkjkaonfhkkikfgjllcleb?hl=ko)
