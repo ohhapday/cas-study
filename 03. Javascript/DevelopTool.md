@@ -1,5 +1,9 @@
 # 준비해야할 자료
 
+### node, npm 설치
+
+### 깃허브 소스 다운로드
+
 ### 프로그램 버전 설명
 MySQL 3.6.7의 의미
 
@@ -11,13 +15,20 @@ MySQL 3.6.7의 의미
 ### 함수형 프로그램 언어: 1급 객체
   - python
   - php
-  - javascript (ing)
+  - javascript
 
 ### 특성
 1. 불변 데이터(Immutable Data)
 2. 1급 함수
 3. 순수 함수
 [참조](http://blog.sonim1.com/113)
+
+
+
+
+
+
+http://jstherightway.org/ko-kr/#js-code-style
 
 
 
