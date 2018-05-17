@@ -1,5 +1,26 @@
 # 준비해야할 자료
 
+### 프로그램 버전 설명
+MySQL 3.6.7의 의미
+
+### 프로그램 방식의 유행
+1. 절차지형 프로그래밍
+2. 객체지향 프로그래밍
+3. 함수지향 프로그래밍
+
+### 함수형 프로그램 언어: 1급 객체
+  - python
+  - php
+  - javascript (ing)
+
+### 특성
+1. 불변 데이터(Immutable Data)
+2. 1급 함수
+3. 순수 함수
+[참조](http://blog.sonim1.com/113)
+
+
+
 소스트리
 
 https://medium.com/@changjoopark/%EA%B5%AC%EA%B8%80-%ED%94%8C%EB%9F%AC%ED%84%B0-flutter-%EB%A5%BC-%EC%8B%9C%EC%9E%91%ED%95%98%EA%B8%B0%EA%B9%8C%EC%A7%80-18c06cec95e3
