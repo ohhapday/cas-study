@@ -18,6 +18,8 @@
 
 ## 04. Nodejs
 
+## 06. npm (yarn)
+
 ## 05. 서버
 
 #### 여기까지 업체와 대화될 수준
@@ -26,18 +28,19 @@
 
 ## 06. ES2016
 
-## 06. npm (yarn)
-
 ## 07. Webpack (parcel)
 
 ## 08. 개발환경
   - babel
   - eslint
   - package.json
-  -
+  - jest
 
 ## 08. vue
 
 ## 09. vuex - flux
 
 ## 10. REST, GraphQL
+
+## 11. PWA
+  - service worker
