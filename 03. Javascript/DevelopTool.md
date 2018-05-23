@@ -25,6 +25,9 @@ MySQL 3.6.7의 의미
 
 
 
+[2016년에 자바스크립트를 배우는 기분](http://www.looah.com/article/view/2054)
+
+
 
 
 

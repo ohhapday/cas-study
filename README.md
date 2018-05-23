@@ -4,13 +4,11 @@
   - 왜 웹을 배워야 할까?
   - 웹개발 학습 로드맵
   - 웹개발 도구
-  - Git
-  - Github
+  - Git와 Github
 
 ## 01. HTML
   - HTML 소개
   - 주요 태그 소개
-  -
 
 ## 02. CSS
 
@@ -19,11 +17,11 @@
   - javascript 1.x
   - es5
 
-## 04. Nodejs
+## 04. Chrome Developer Tools
 
-## 06. npm (yarn)
+## 05. Nodejs & npm
 
-## 05. 서버
+## 06. 서버
 
 #### 여기까지 업체와 대화될 수준
 ---
