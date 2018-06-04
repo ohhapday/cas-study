@@ -11,6 +11,9 @@
   - 주요 태그 소개
 
 ## 02. CSS
+  - Selector
+  - Media query
+  - bootstrap
 
 ## 03. Javascript
   - XMLHTTPRequest
