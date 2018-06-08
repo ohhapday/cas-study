@@ -28,3 +28,11 @@
 7. localhost:1880/ui 접속 확인
 
 - #### 50% 먹고 개발 시작
+
+## git과 npm, webpack의 콜라보
+1. git clone https://github.com/PanJiaChen/vue-element-admin.git
+2. npm install
+3. npm run dev - develop
+    - npm run build - build
+
+###### webpack을 통해 서버환경까지도 세팅되어 쉽게 예제를 확인할 수 있다.
